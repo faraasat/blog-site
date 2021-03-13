@@ -23,6 +23,7 @@ module.exports = {
       options: {
         spaceId: `wl3m4ipieaqv`,
         accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
+        forceFullSync: true,
       },
     },
     {
