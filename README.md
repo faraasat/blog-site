@@ -3,7 +3,7 @@
 
 ### ⚒ Project Demo:
 ####  For Project Demo Follow the Link For: 
-#### Taskbox Site: http://task-box.surge.sh/
+#### Taskbox Site: https://blog-site-react.netlify.app/
 
 ### 🕵️‍♂️ Project Details:
 ####  This project is based on primarily on Gatsby, TypeScript as well as uses other libraries too. In this app, you can use see our blogs!
@@ -28,7 +28,10 @@
 ### 📷 Project UI:
 
 <p align="center">
-  <a href="http://task-box.surge.sh/">
+  <a href="https://blog-site-react.netlify.app/">
     <img width='65%' src="screen-shot.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  </a>
+  <a href="https://blog-site-react.netlify.app/">
+    <img width='65%' src="screen-shot-2.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   </a>
 </p>
