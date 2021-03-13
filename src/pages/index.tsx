@@ -4,9 +4,10 @@ import SEO from "../components/seo"
 
 const IndexPage = () => {
   return (
-    <div>
+    <Layout>
+      <SEO title="Index Page" />
       <h1>Hello World</h1>
-    </div>
+    </Layout>
   )
 }
 
